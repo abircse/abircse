@@ -4,8 +4,8 @@
 
 Working as a Software Engineer at TBL Tech Nerds- United State with Remote full time support. Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge.
 
-**EXPERIENCED SKILLS**
-**Programming Language:** KOTLIN, JAVA, PHP, XML.\
+**EXPERIENCED SKILLS**<br />
+**Programming Language:** KOTLIN, JAVA, PHP, XML.<br />
 **Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code etc.
 **Architecture/Design Pattern:** MVP, MVVM, Livedata, Coroutine
 **Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config
