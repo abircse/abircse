@@ -1,4 +1,4 @@
-# Hi there 👋, This is Nayeem Shiddiki Abir
+# Nayeem Shiddiki Abir
 #### Software Engineer (Android) || Android Application Developer || Team Lead
 ![Software Engineer (Android) || Android Application Developer || Team Lead](https://media-exp1.licdn.com/dms/image/C5116AQFb2XrrHaDIUA/profile-displaybackgroundimage-shrink_350_1400/0/1563555651667?e=1638403200&v=beta&t=bDd_wC-fGRH8zh1HESQscLYGEmZKjBP7aSPKx-cVwYg)
 
