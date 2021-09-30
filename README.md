@@ -1,7 +1,7 @@
 # Nayeem Shiddiki Abir
 ### Software Engineer || Android Application Developer || Team Lead
 ![Software Engineer (Android) || Android Application Developer || Team Lead]
-(https://coxtunes.com:2083/cpsess4968181115/frontend/paper_lantern/filemanager/showfile.html?file=alexandru-acea-Ra8x8H7GToE-unsplash.jpg&fileop=&dir=%2Fhome%2Fcoxtunes%2Fpublic_html&dirop=&charset=&file_charset=&baseurl=&basedir=)
+(https://www.linkedin.com/in/abircoxsbazar/detail/background-image/)
 
 
 - 🔭 I’m currently working as a **Sr. Software Engineer at TBL Tech Nerds- United State** with  full time Remote support. I Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge. 
