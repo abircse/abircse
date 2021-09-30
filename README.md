@@ -4,7 +4,28 @@
 
 Working as a Software Engineer at TBL Tech Nerds- United State with Remote full time support. Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge.
 
-**Skills: JAVA / KOTLIN / PHP / XML**
+**EXPERIENCED SKILLS**
+**Programming Language:** KOTLIN, JAVA, PHP, XML.
+**Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code etc.
+**Architecture/Design Pattern:** MVP, MVVM, Livedata, Coroutine
+**Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config
+OTP & Email verification. Authentication with all social network.
+Code Analysis Tools: PMD, Findbug, Checkstyle
+**Data Parser:** JSON, XML, RSS, ATOM
+**Bug/Crash Monitoring Tools:** Febric, Crashlytics
+**Database:** Firebase Realtime DB, Firestorem, Mysql, SQlite, Realm, Room
+**Network Transmission:** Retrofit, Volley, OkHTTP
+**Server & Client:** Xampp, Wampp, Capel, Postman and other rest client
+**Project Management & Team Communication Tools:** Trello, Slack, Mysqlworkbench, Jira
+**Version Control System:** Git, Github, Gitlab, Bitbucket
+**Libraries:** Able to implement any third party library,e.g picasso
+**Life Cycle:** Orchestrating background activity life cycle with background services.
+**Map:** Google Map. Mapbox
+**API Development:** Rest Api Development using PHP (Raw+OOP)
+**Development Practice:** Agile, Scrum
+**Payment Gateway:** Paypal & able to integrate others as needed.
+**Reverse Engineering:** Proguard
+**Web Application Development:** Wordpress (CMS
 
 **- 🔭 I’m currently working on TBL Tech Nerds - USA as Sr Software Engineer (Android) **
 
