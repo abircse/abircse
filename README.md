@@ -2,7 +2,8 @@
 ### Software Engineer (Android) || Android Application Developer || Team Lead
 ![Software Engineer (Android) || Android Application Developer || Team Lead](https://media-exp1.licdn.com/dms/image/C5116AQFb2XrrHaDIUA/profile-displaybackgroundimage-shrink_350_1400/0/1563555651667?e=1638403200&v=beta&t=bDd_wC-fGRH8zh1HESQscLYGEmZKjBP7aSPKx-cVwYg)
 
-Working as a Software Engineer at TBL Tech Nerds- United State with Remote full time support. Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge.
+
+**- 🔭 I’m currently working as a Software Engineer at TBL Tech Nerds- United State with Remote full time support. Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge. **
 
 **EXPERIENCED SKILLS**<br />
 **Programming Language:** KOTLIN, JAVA, PHP, XML.<br />
@@ -26,9 +27,6 @@ Code Analysis Tools: PMD, Findbug, Checkstyle<br />
 **Payment Gateway:** Paypal & able to integrate others as needed.<br />
 **Reverse Engineering:** Proguard<br />
 **Web Application Development:** Wordpress (CMS)<br />
-
-**- 🔭 I’m currently working on TBL Tech Nerds - USA as Sr Software Engineer (Android) **
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abircse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abircoxsbazar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abircoxsbazar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abircse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ns_abir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/nayeem-shiddiki-abir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](coxtunes.com)  
 
