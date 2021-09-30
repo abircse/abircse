@@ -6,9 +6,9 @@
 **- 🔭 I’m currently working as a Software Engineer at TBL Tech Nerds- United State with Remote full time support. Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge. **
 
 **SKILLS**<br />
-**Programming Language:** KOTLIN, JAVA, PHP, XML.<br />
-**Favorite Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code etc.<br />
-**Architecture/Design Pattern:** MVP, MVVM, Livedata, Coroutine<br />
+**Programming Language:** KOTLIN, JAVA, PHP<br />
+**Favorite Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code<br />
+**Architecture/Design Pattern:** MVP, MVVM, Livedata, Coroutine, StateFlow<br />
 **Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config<br />
 OTP & Email verification. Authentication with all social network.<br />
 **Code Analysis Tools:**  PMD, Findbug, Checkstyle<br />
