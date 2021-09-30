@@ -6,26 +6,26 @@ Working as a Software Engineer at TBL Tech Nerds- United State with Remote full 
 
 **EXPERIENCED SKILLS**<br />
 **Programming Language:** KOTLIN, JAVA, PHP, XML.<br />
-**Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code etc.
-**Architecture/Design Pattern:** MVP, MVVM, Livedata, Coroutine
-**Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config
-OTP & Email verification. Authentication with all social network.
-Code Analysis Tools: PMD, Findbug, Checkstyle
-**Data Parser:** JSON, XML, RSS, ATOM
-**Bug/Crash Monitoring Tools:** Febric, Crashlytics
-**Database:** Firebase Realtime DB, Firestorem, Mysql, SQlite, Realm, Room
-**Network Transmission:** Retrofit, Volley, OkHTTP
-**Server & Client:** Xampp, Wampp, Capel, Postman and other rest client
-**Project Management & Team Communication Tools:** Trello, Slack, Mysqlworkbench, Jira
-**Version Control System:** Git, Github, Gitlab, Bitbucket
-**Libraries:** Able to implement any third party library,e.g picasso
-**Life Cycle:** Orchestrating background activity life cycle with background services.
-**Map:** Google Map. Mapbox
-**API Development:** Rest Api Development using PHP (Raw+OOP)
-**Development Practice:** Agile, Scrum
-**Payment Gateway:** Paypal & able to integrate others as needed.
-**Reverse Engineering:** Proguard
-**Web Application Development:** Wordpress (CMS
+**Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code etc.<br />
+**Architecture/Design Pattern:** MVP, MVVM, Livedata, Coroutine<br />
+**Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config<br />
+OTP & Email verification. Authentication with all social network.<br />
+Code Analysis Tools: PMD, Findbug, Checkstyle<br />
+**Data Parser:** JSON, XML, RSS, ATOM<br />
+**Bug/Crash Monitoring Tools:** Febric, Crashlytics<br />
+**Database:** Firebase Realtime DB, Firestorem, Mysql, SQlite, Realm, Room<br />
+**Network Transmission:** Retrofit, Volley, OkHTTP<br />
+**Server & Client:** Xampp, Wampp, Capel, Postman and other rest client<br />
+**Project Management & Team Communication Tools:** Trello, Slack, Mysqlworkbench, Jira<br />
+**Version Control System:** Git, Github, Gitlab, Bitbucket<br />
+**Libraries:** Able to implement any third party library,e.g picasso<br />
+**Life Cycle:** Orchestrating background activity life cycle with background services.<br />
+**Map:** Google Map. Mapbox<br />
+**API Development:** Rest Api Development using PHP (Raw+OOP)<br />
+**Development Practice:** Agile, Scrum<br />
+**Payment Gateway:** Paypal & able to integrate others as needed.<br />
+**Reverse Engineering:** Proguard<br />
+**Web Application Development:** Wordpress (CMS)<br />
 
 **- 🔭 I’m currently working on TBL Tech Nerds - USA as Sr Software Engineer (Android) **
 
