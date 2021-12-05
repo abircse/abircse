@@ -1,7 +1,7 @@
 # Nayeem Shiddiki Abir
 ### Software Engineer || Android Application Developer || Team Lead
 
-- 🔭 I’m currently working as a **Sr. Software Engineer at TBL Tech Nerds- United State** with  full time Remote support. I Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge. 
+- 🔭 I’m currently working as a **Sr. Software Engineer at Hire-Programmers (United State) ** with  full time Remote support. I Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge. 
 
 ### SKILLS
 **Programming Language:** KOTLIN, JAVA, PHP<br />
