@@ -12,7 +12,7 @@
 OTP & Email verification. Authentication with all social network.<br />
 **Code Analysis Tools:**  PMD, Findbug, Checkstyle<br />
 **Data Parser:** JSON, XML, RSS, ATOM<br />
-**Bug/Crash Monitoring Tools:** Febric, Crashlytics, Bugfender, Newrelic<br />
+**Bug/Crash Monitoring Tools:** Febric, Crashlytics, Bugfender, Newrelic, Wakatime<br />
 **Database:** Firebase Realtime DB, Firestore, Back4app(Parse), Mysql, SQlite, Realm, Room<br />
 **Network Transmission:** Retrofit, Volley, OkHTTP<br />
 **Server & Client:** Xampp, Wampp, Capel, Postman and other rest client<br />
