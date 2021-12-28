@@ -33,3 +33,5 @@ OTP & Email verification. Authentication with all social network.<br />
 
 
 ![Profile views](https://gpvc.arturio.dev/abircse)  
+
+<a href="https://wakatime.com/@84544c78-ad62-4fe7-ad58-fbbac5100975"><img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="Total time coded since Mar 25 2019" /></a>
