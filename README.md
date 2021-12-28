@@ -8,6 +8,7 @@
 **Favorite Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code<br />
 **Development Methodologies:** Solid Principle with SDLC, PSP, TDD, Agile/Scrum<br />
 **Architecture & Design Pattern:** MVP, MVVM, Livedata, Coroutine, StateFlow, Flow<br />
+**Dependency injection:** Dagger 2, Hilt<br />
 **Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config<br />
 OTP & Email verification. Authentication with all social network.<br />
 **Code Analysis Tools:**  PMD, Findbug, Checkstyle<br />
