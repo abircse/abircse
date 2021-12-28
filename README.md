@@ -4,7 +4,6 @@
 - 🔭 I’m currently working as a **Lead Software Engineer at Hire-Programmers-United State** with  full time Remote support. I Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge. 
 
 <a href="https://wakatime.com/@abircse"><img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="Total time coded since Mar 25 2019" /></a> ![Profile views](https://gpvc.arturio.dev/abircse)  
-
 ### SKILLS
 **Programming Language:** KOTLIN, JAVA, PHP<br />
 **Favorite Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code<br />
