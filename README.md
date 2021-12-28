@@ -6,7 +6,7 @@
 ### SKILLS
 **Programming Language:** KOTLIN, JAVA, PHP<br />
 **Favorite Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code<br />
-**Best Practice:** Solid Principle with SDLC, PSP, TDD, Agile/Scrum<br />
+**Development Methodologies:** Solid Principle with SDLC, PSP, TDD, Agile/Scrum<br />
 **Architecture & Design Pattern:** MVP, MVVM, Livedata, Coroutine, StateFlow, Flow<br />
 **Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config<br />
 OTP & Email verification. Authentication with all social network.<br />
