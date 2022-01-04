@@ -6,7 +6,7 @@
 <a href="https://wakatime.com/@abircse"><img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="Total time coded since Mar 25 2019" /></a> ![Profile views](https://gpvc.arturio.dev/abircse)  
 ### SKILLS
 **Programming Language:** KOTLIN, JAVA, PHP<br />
-**Favorite Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code<br />
+**Favorite Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code, Pychamps<br />
 **Development Methodologies:** Solid Principle with SDLC, PSP, TDD, Agile/Scrum<br />
 **Architecture & Design Pattern:** MVP, MVVM, Livedata, Coroutine, StateFlow, Flow, Singleton, Builder<br />
 **Dependency injection:** Dagger 2, Hilt<br />
