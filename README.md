@@ -16,7 +16,7 @@ OTP & Email verification. Authentication with all social network.<br />
 **Data Parser:** JSON, XML, RSS, ATOM<br />
 **Bug/Crash Monitoring Tools:** Febric, Crashlytics, Bugfender, Newrelic, Timber, Sentry.io<br />
 **Productivity Monitoring Tools:** Wakatime<br />
-**Database & Cache:** Firebase Realtime DB, Firestore, Back4app(Parse), Mysql, SQlite, Realm, Room, Mutex<br />
+**Database & Cache:** Firebase Realtime DB, Firestore, Back4app(Parse), Mysql, SQlite, Realm, Room, Mutex, sharedpreference<br />
 **Network Transmission:** Retrofit, Volley, OkHTTP<br />
 **Server & Client:** Xampp, Wampp, Capel, Postman and other rest client<br />
 **Project Management & Team Communication Tools:** Trello, Slack, Mysqlworkbench, Jira<br />
