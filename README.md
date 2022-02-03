@@ -11,8 +11,8 @@
 **Architecture & Design Pattern:** MVP, MVVM, Livedata, Coroutine, StateFlow, Flow, Singleton, Builder<br />
 **Dependency injection:** Dagger 2, Hilt<br />
 **Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config<br />
-OTP & Email verification. Authentication with all social network.<br />
-**Code Analysis Tools:**  PMD, Findbug, Checkstyle<br />
+OTP & Email verification. Authentication with all social network, Paging3.<br />
+**Code Analysis Tools:**  PMD, Findbug, Checkstyle, Leak Canary.<br />
 **Data Parser:** JSON, XML, RSS, ATOM<br />
 **Bug/Crash Monitoring Tools:** Febric, Crashlytics, Bugfender, Newrelic, Timber, Sentry.io<br />
 **Productivity Monitoring Tools:** Wakatime<br />
