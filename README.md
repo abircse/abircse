@@ -1,7 +1,7 @@
 # Nayeem Shiddiki Abir
-### Senior Software Engineer || Android Application Developer || Team Lead
+### Sr. Software Engineer || Android Application Developer || Team Lead
 
-🔭 I’m currently working as a **Senior Software Engineer at Hire-Programmers-United State** with  full time Remote support. I Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge. 
+🔭 I’m currently working as a **Sr. Software Engineer at Hire Programmers-USA** with  full time Remote support. I Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge. 
 
 <a href="https://wakatime.com/@abircse"><img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="Total time coded since Mar 25 2019" /></a> ![Profile views](https://gpvc.arturio.dev/abircse)  
 ### SKILLS
