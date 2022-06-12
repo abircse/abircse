@@ -1,5 +1,5 @@
 # Nayeem Shiddiki Abir
-### Senior Software Engineer || Android Application Developer || Team Lead
+### Senior Software Engineer || Android Application Developer || Technical Lead
 
 🔭 I’m currently working as a **Sr. Software Engineer at DevStation39-United State** with  full time Remote support & 5Years+ Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge with my community.
 
