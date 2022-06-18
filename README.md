@@ -21,7 +21,7 @@ OTP & Email verification. Authentication with all social network, Paging3.<br />
 **Server & Client:** Xampp, Wampp, Capel, Postman and other rest client<br />
 **Project Management & Team Communication Tools:** Trello, Slack, Mysqlworkbench, Jira<br />
 **Version Control System:** Git, Github, Gitlab, Bitbucket<br />
-**Libraries:** Able to implement any third party library,e.g Coil, Exoplayer<br />
+**Libraries:** Able to implement any third party library,e.g Coil, Exoplayer, ZXing, Easy Permissions, Dexter<br />
 **Life Cycle:** Orchestrating background activity life cycle with background services.<br />
 **Map:** Google Map. Mapbox<br />
 **API Development:** Rest Api Development using PHP (Raw+OOP)<br />
