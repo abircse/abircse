@@ -14,7 +14,7 @@
 OTP & Email verification. Authentication with all social network, Paging3.<br />
 **Code Analysis Tools:**  PMD, Findbug, Checkstyle, Leak Canary.<br />
 **Data Parser:** JSON, XML, RSS, ATOM<br />
-**Bug/Crash Monitoring Tools:** Febric, Crashlytics, Bugfender, Newrelic, Timber, Sentry.io<br />
+**Bug/Crash Monitoring Tools:** Febric, Crashlytics, Bugfender, Newrelic, Timber, Sentry.io, App Center<br />
 **Productivity Monitoring Tools:** Wakatime<br />
 **Database & Cache:** Firebase Realtime DB, Firestore, Back4app(Parse), Mysql, SQlite, Realm, Room, Mutex, sharedpreference, DataStoreJetpack<br />
 **Network Transmission:** Retrofit, Volley, OkHTTP<br />
