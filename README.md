@@ -8,7 +8,7 @@
 **Programming Language:** Kotlin, Java, Php, Python<br />
 **Favorite Compiler:** Android Studio, Intellij Idea, PHP Strome, Visual Studio Code, Pychamps<br />
 **Development Methodologies:** Solid Principle with SDLC, PSP, TDD, Agile/Scrum<br />
-**Architecture & Design Pattern:** MVP, MVVM, Livedata, Coroutine, StateFlow, Flow, Singleton, Builder<br />
+**Architecture & Design Pattern:** Jetpack Compose, MVP, MVVM, Livedata, Coroutine, StateFlow, Flow, Singleton, Builder<br />
 **Dependency injection:** Dagger 2, Hilt<br />
 **Technology:** Text & Image recognitions, ML Kit, Cloud Messeging, Remote Config<br />
 OTP & Email verification. Authentication with all social network, Paging3.<br />
