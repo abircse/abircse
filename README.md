@@ -68,6 +68,7 @@ Would be something like that.
 * 🎨 style
 * 🧪 test
 * 🔨 fix
+* ⚙️ Config
 
 ### example
 🛠 build(app gradle): add new itextpdf library
