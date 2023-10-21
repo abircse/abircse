@@ -51,6 +51,7 @@ Would be something like that.
 * style: A code that is related to styling
 * test: Adding new test or making changes to existing test
 * fix: A bug fixing
+* config: Project Root Architecture & Design pattern configuration
 
 ### subject
 * use imperative, present tense (eg: use "add" instead of "added" or "adds")
