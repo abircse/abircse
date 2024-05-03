@@ -1,7 +1,7 @@
 # Nayeem Shiddiki Abir
-### Senior Software Engineer || Android Engineer || Mobile Application Developer || Technical Lead [Project Management]
+### Senior Software Engineer || Mobile Application Engineer || Technical Lead [Project Management]
 
-🔭 I’m currently working as a **Technical Lead (Project Management) at DevStation39-United State** with  full time Remote support & 5Years+ Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge with my community.
+🔭 I’m currently working as a **Technical Lead (Project Management) at Global Dynamic Solutions LLC-United State** with  full time Remote support & 6Years+ Experienced In Mobile Application Engineering. i Love to write code & Share Knowledge with my community.
 
 <a href="https://wakatime.com/@abircse"><img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="Total time coded since Mar 25 2019" /></a>
 ### TECHNICAL SKILLS
