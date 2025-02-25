@@ -1,12 +1,12 @@
 # Nayeem Shiddiki Abir
-### Senior Software Engineer || Mobile Application Engineer || Technical Lead [Project Management]
+### Principal Software Engineer || Senior Software Engineer || Mobile Application Engineer || Technical Lead [Project Management]
 
 🔭 I’m currently working as a **Technical Lead (Project Management) at Global Dynamic Solutions LLC-United State** with  full time Remote support & 6Years+ Experienced In Mobile Application Engineering. I'm a passionate & expertise in both native Android development and cross-platform mobile app development using Flutter. With a strong foundation in computer science and years of hands-on experience, I enjoy crafting robust and user-friendly applications that solve real-world problems. I Love to write code & Share Knowledge with my community. 
 
 <a href="https://wakatime.com/@abircse"><img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="Total time coded since Mar 25 2019" /></a>
 
 ### TECHNICAL SKILLS
-**Programming Language:** C, C++, JAVA, Kotlin PHP <br />
+**Programming Language:** C, C++, JAVA, Kotlin, PHP, Python, JS <br />
 **Development Architecture:** MVVM, MVI, MVC <br />
 **Development Flatform:** Android, iOS, Cross (KMP, Flutter) <br />
 
