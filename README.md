@@ -6,8 +6,8 @@
 <a href="https://wakatime.com/@abircse"><img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="Total time coded since Mar 25 2019" /></a>
 
 ### TECHNICAL SKILLS
-**Programming Language:** C, C++, JAVA, Kotlin, PHP, Python, JS <br />
-**Development Architecture:** MVVM, MVI, MVC <br />
+**Programming Language:** C, C++, JAVA, Kotlin, Dart, PHP, Python, JS <br />
+**Development Architecture:** MVVM, MVI, MVC with clean Architecture<br />
 **Development Flatform:** Android, iOS, Cross (KMP, Flutter) <br />
 
 
