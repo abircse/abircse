@@ -58,19 +58,18 @@ Would be something like that.
 ### Use Lint to Detect Unused Dependencies
 Android Studio has built-in Lint checks to detect unused dependencies:
 
-## Open Terminal in Android Studio
+### Open Terminal in Android Studio
 
-# Run:
-./gradlew dependencies --configuration implementation
+### Run:
+./gradlew dependencies --configuration implementation  
 
-This will list all dependencies.
+This will list all dependencies. Then, 
 
-Then, 
-# Run:
+### Run:
 ./gradlew lint
 
 This Check the lint report at:
 
-## Look for warnings about unused dependencies from here
+### Look for warnings about unused dependencies from here
 app/build/reports/lint-results.html
 
