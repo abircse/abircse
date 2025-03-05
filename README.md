@@ -55,3 +55,22 @@ Would be something like that.
 ### example
 🛠 build(app gradle): add new itextpdf library
 
+### Use Lint to Detect Unused Dependencies
+Android Studio has built-in Lint checks to detect unused dependencies:
+
+## Open Terminal in Android Studio
+
+# Run:
+./gradlew dependencies --configuration implementation
+
+This will list all dependencies.
+
+Then, 
+# Run:
+./gradlew lint
+
+This Check the lint report at:
+
+## Look for warnings about unused dependencies from here
+app/build/reports/lint-results.html
+
