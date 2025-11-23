@@ -74,10 +74,6 @@ I build **high-performance, production-ready systems** that solve real business 
 - No period at the end  
 - Lowercase first letter  
 
-**Example:**
-```text
-🛠 build(app gradle): add new itextpdf library
----
 
 ## 📊 GitHub Stats & Activity
 
