@@ -60,12 +60,13 @@ I am passionate about building **robust, high-quality applications** that solve 
 ```text
 🛠 build(app gradle): add new itextpdf library
 
+---
 
 ## 💡 Programmer Tips
 
 Here are some of my **favorite programming tips** for better code, productivity, and learning:
 
-##🧹 Code Quality & Best Practices
+🧹 Code Quality & Best Practices
 - ✨ Write **clean, readable code** – your future self (and team) will thank you.  
 - 📌 Follow **consistent naming conventions** and formatting standards.  
 - 📝 **Comment wisely** – explain why, not what.  
