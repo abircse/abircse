@@ -1,6 +1,6 @@
 # NAYEEM SHIDDIKI ABIR
 
-### Principal Software Engineer | Senior Software Engineer | Mobile Application Engineer | Technical Lead | Project Management
+### Passonoite Software Engineer
 
 🔹 **Principal Software Engineer** at Global Dynamic Solutions LLC (USA) — Full-time Remote  
 🔹 7.5+ years of experience in software engineering and mobile development  
