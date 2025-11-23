@@ -33,6 +33,7 @@ I am passionate about building **robust, high-quality applications** that solve 
 <a href="https://stackoverflow.com/users/nayeem-shiddiki-abir"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30"></a> 
 <a href="https://coxtunes.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="30"></a>
 
+---
 
 ## 📝 Git Commit Guidelines
 
@@ -58,5 +59,4 @@ I am passionate about building **robust, high-quality applications** that solve 
 **Example:**
 ```text
 🛠 build(app gradle): add new itextpdf library
-
 
