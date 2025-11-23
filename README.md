@@ -10,15 +10,6 @@ I build **high-performance, production-ready systems** that solve real business 
 
 ---
 
-## 💼 Technical Stack
-
-- **Mobile App Development** — Android, iOS, Flutter, Kotlin Multiplatform (KMP)  
-- **AI / Machine Learning** — Integrated ML models into mobile systems  
-- **Architecture & Leadership** — Design system architecture, lead development teams, mentor engineers
-- **Backend** — Python, PHP, JS
-
----
-
 ## 💻 Technical Skills
 
 | Area | Technologies |
@@ -26,7 +17,8 @@ I build **high-performance, production-ready systems** that solve real business 
 | **Languages** | C, C++, Java, Kotlin, Dart, PHP, Python, JavaScript |
 | **Architectures** | MVVM, MVI, MVC, Clean Architecture |
 | **Platforms** | Android, iOS, Cross-Platform (KMP, Flutter), Machine Learning (ML) & Artificial Intelligence (AI) |
-| **Other** | Project Management, Code Quality, Agile |
+| **Backend** | Python, PHP, JS, Firebase |
+| **Other** | Project Management, Code Quality, Agile, Spiral, V-Model, Popcorn |
 
 ---
 
