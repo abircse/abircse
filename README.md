@@ -32,7 +32,7 @@ I build **high-performance, production-ready systems** that solve real business 
 
 ---
 
-## 💡 Programmer Tips & Values
+## 💡 Programmer Tips
 
 - Write **clean, readable code** — maintainability matters.  
 - Use **modular architecture** — break down large problems into smaller, reusable pieces.  
