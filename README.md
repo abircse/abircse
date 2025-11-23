@@ -2,9 +2,9 @@
 
 ### Principal Software Engineer | Senior Software Engineer | Mobile Engineer | Technical Lead/Project Management
 
-🔹 Principal Software Engineer at Global Dynamic Solutions LLC (USA) – Full-time Remote
-🔹 7.5+ years of experience building enterprise-grade software and mobile applications
-🔹 Specialized in native & cross-platform app development, AI/ML-driven solutions, and scalable, cloud-ready architectures
+-🔹 Principal Software Engineer at Global Dynamic Solutions LLC (USA) – Full-time Remote
+-🔹 7.5+ years of experience building enterprise-grade software and mobile applications
+-🔹 Specialized in native & cross-platform app development, AI/ML-driven solutions, and scalable, cloud-ready architectures
 
 I focus on designing and delivering high-performance, production-ready systems that solve real business challenges. My work blends deep engineering expertise with modern AI/ML capabilities to create intelligent, reliable, and efficient software products. I’m committed to writing clean, maintainable code, driving technical decisions, and continuously contributing to the engineering community.
 
