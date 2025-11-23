@@ -66,12 +66,4 @@ I build **high-performance, production-ready systems** that solve real business 
 - No period at the end  
 - Lowercase first letter  
 
-
-## 📊 GitHub Stats & Activity
-
-<!-- You can add GitHub stats/card here, using services like GitHub Readme Stats or Wakatime here -->
-
 ---
-
-Thank you for visiting my profile! 🙏  
-**Let’s build something amazing together.**
