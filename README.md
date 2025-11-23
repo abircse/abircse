@@ -66,36 +66,36 @@ Here are some of my **favorite programming tips** for better code, productivity,
 
 ---
 
-### 🧹 Code Quality & Best Practices
+**🧹 Code Quality & Best Practices **
 - ✨ Write **clean, readable code** – your future self (and team) will thank you.  
 - 📌 Follow **consistent naming conventions** and formatting standards.  
 - 📝 **Comment wisely** – explain why, not what.  
 - 🔗 Break code into **small, reusable functions or classes**.
 
-### 🛠 Debugging & Problem Solving
+** 🛠 Debugging & Problem Solving **
 - 🐞 Use **print/log statements and debuggers** effectively.  
 - 🔍 Learn to **read stack traces carefully** – they tell the story.  
 - 🧩 Break problems into **smaller, manageable pieces**.  
 - 🌐 Google effectively – **read documentation, not just answers**.
 
-### 🚀 Productivity & Workflow
+** 🚀 Productivity & Workflow **
 - 🖥️ Use **linters and formatters** to maintain consistency automatically.  
 - ⌨️ Master your **IDE shortcuts** – saves hours.  
 - ⚙️ Automate repetitive tasks wherever possible (scripts, build tools).  
 - ✅ Write **unit tests early** – saves debugging time later.
 
-### 🤝 Collaboration & Soft Skills
+** 🤝 Collaboration & Soft Skills **
 - 💬 Communicate clearly in code reviews and team discussions.  
 - 📚 Always **document your work** for team members.  
 - 🙋 Ask for help when stuck, but **research before asking**.  
 
-### 🎯 Learning & Growth
+** 🎯 Learning & Growth **
 - 📖 Stay updated with language/framework updates and best practices.  
 - 🌱 Contribute to **open-source projects** to learn collaborative development.  
 - 👀 Read other developers’ code to **see different approaches**.  
 - 💡 Focus on **solving problems, not just writing code**.
 
-### 🧠 Career & Mindset
+** 🧠 Career & Mindset **
 - 💻 Keep a **portfolio/GitHub** to showcase your skills.  
 - 📊 Learn **data structures and algorithms** – improve efficiency.  
 - 🌟 Never stop **learning and experimenting** with new technologies.
