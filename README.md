@@ -56,5 +56,4 @@ I am passionate about building **robust, high-quality applications** that solve 
 **Example:**
 ```text
 🛠 build(app gradle): add new itextpdf library
-
-
+---
