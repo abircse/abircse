@@ -6,7 +6,7 @@
 🔹 7.5+ years of experience in software engineering and mobile development  
 🔹 Specialized in **native & cross-platform apps**, **AI & ML integration**, and **scalable software architecture**
 
-I build **high-performance, production-ready systems** that solve real business challenges. With a solid foundation in computer science and hands-on experience, I blend deep engineering skills and AI/ML to deliver **intelligent, reliable, and efficient software solutions**. I strongly believe in clean code, architectural clarity, and continuous knowledge sharing.
+Building **high-performance, production-ready systems** that solve real business challenges. With a solid foundation in computer science and hands-on experience in multiple international & local companies, I blend deep engineering skills and AI/ML to deliver **intelligent, reliable, and efficient software solutions**. I strongly believe in writing clean code, maintaining architectural clarity, and fostering continuous knowledge sharing.
 
 ---
 
