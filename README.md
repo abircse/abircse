@@ -25,16 +25,6 @@ I am passionate about building **robust, high-quality applications** that solve 
 
 ## 🌐 Connect with Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'>](https://github.com/abircse)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/abircoxsbazar/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='30'>](https://www.facebook.com/nayeemshiddikiabir)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='30'>](https://www.instagram.com/abircse/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='30'>](https://twitter.com/Ns_abir)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='StackOverflow' height='30'>](https://stackoverflow.com/users/nayeem-shiddiki-abir)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='30'>](https://coxtunes.com)
-
-<!-- To keep horizontal, use this format: -->
-
 <a href="https://github.com/abircse"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30"></a> 
 <a href="https://www.linkedin.com/in/abircoxsbazar/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30"></a> 
 <a href="https://www.facebook.com/nayeemshiddikiabir"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30"></a> 
@@ -44,4 +34,30 @@ I am passionate about building **robust, high-quality applications** that solve 
 <a href="https://coxtunes.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="30"></a>
 
 ---
+
+## 📝 Git Commit Guidelines
+
+**Format:** `<type>(<scope>): <subject>`  
+
+**Types & Emojis:**
+- 🛠 build – Build or dependency changes  
+- 👀 chore – Internal changes not visible to users  
+- 📦 feat – New feature  
+- 🐛 fix – Bug fix  
+- 📝 docs – Documentation  
+- 🗜️ refactor – Code restructuring  
+- 🚀 perf – Performance improvement  
+- 🎨 style – Styling/code formatting  
+- 🧪 test – Adding/updating tests  
+- ⚙️ config – Project or architecture configuration  
+
+**Subject Rules:**  
+- Use imperative, present tense (e.g., "add" instead of "added")  
+- No period at the end  
+- Lowercase first letter  
+
+**Example:**
+```text
+🛠 build(app gradle): add new itextpdf library
+
 
