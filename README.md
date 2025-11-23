@@ -1,6 +1,6 @@
 # NAYEEM SHIDDIKI ABIR
 
-### Passonoite Software Engineer
+### Passionate Software Engineer | Mobile, AI/ML, Backend
 
 🔹 **Principal Software Engineer** at Global Dynamic Solutions LLC (USA) — Full-time Remote  
 🔹 7.5+ years of experience in software engineering and mobile development  
