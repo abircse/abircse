@@ -25,7 +25,7 @@ I build **high-performance, production-ready systems** that solve real business 
 |---|---|
 | **Languages** | C, C++, Java, Kotlin, Dart, PHP, Python, JavaScript |
 | **Architectures** | MVVM, MVI, MVC, Clean Architecture |
-| **Platforms** | Android, iOS, Cross-Platform (KMP, Flutter), Machine Learning & Artificial Intelligence |
+| **Platforms** | Android, iOS, Cross-Platform (KMP, Flutter), Machine Learning (ML) & Artificial Intelligence (AI) |
 | **Other** | Project Management, Code Quality, Agile |
 
 ---
