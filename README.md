@@ -10,12 +10,12 @@ I build **high-performance, production-ready systems** that solve real business 
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Technical Stack
 
-- **Global Dynamic Solutions LLC** — Principal Software Engineer  
 - **Mobile App Development** — Android, iOS, Flutter, Kotlin Multiplatform (KMP)  
 - **AI / Machine Learning** — Integrated ML models into mobile systems  
-- **Architecture & Leadership** — Design system architecture, lead development teams, mentor engineers  
+- **Architecture & Leadership** — Design system architecture, lead development teams, mentor engineers
+- **Backend** — Python, PHP, JS
 
 ---
 
