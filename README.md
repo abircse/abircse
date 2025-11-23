@@ -17,8 +17,6 @@ I build **high-performance, production-ready systems** that solve real business 
 - **AI / Machine Learning** — Integrated ML models into mobile systems  
 - **Architecture & Leadership** — Design system architecture, lead development teams, mentor engineers  
 
-(Some of my highlighted repositories / projects will go here — feel free to pin 3–6.)
-
 ---
 
 ## 💻 Technical Skills
@@ -27,8 +25,8 @@ I build **high-performance, production-ready systems** that solve real business 
 |---|---|
 | **Languages** | C, C++, Java, Kotlin, Dart, PHP, Python, JavaScript |
 | **Architectures** | MVVM, MVI, MVC, Clean Architecture |
-| **Platforms** | Android, iOS, Cross-Platform (KMP, Flutter) |
-| **Other** | AI & ML, Project Management, Code Quality, Agile |
+| **Platforms** | Android, iOS, Cross-Platform (KMP, Flutter), Machine Learning & Artificial Intelligence |
+| **Other** | Project Management, Code Quality, Agile |
 
 ---
 
@@ -52,6 +50,10 @@ I build **high-performance, production-ready systems** that solve real business 
 - Share knowledge — code reviews, mentoring, and open-source contribution help both others and yourself.  
 - Stay curious — explore new technologies, patterns, and tools.  
 - Lead with responsibility — build systems that are not only functional but scalable and secure.
+
+---
+
+# Notes for Programmer ## git Commit Message Guidelines It would be something like that. <type>(<scope>): <subject> ### type * build: Build related changes (eg: npm related/ adding external dependencies) * chore: A code change that an external user won't see (eg: change to the .gitignore file or the .prettierrc file) * feat: A new feature * fix: A bug * docs: Documentation-related changes * refactor: A code that neither fixes bugs nor adds a feature. (eg, You can use this when there are semantic changes like renaming a variable/ function name) * perf: A code that improves performance * style: A code that is related to styling * test: Adding new test or making changes to an existing test * fix: A bug fixing * config: Project Root Architecture & Design pattern configuration ### subject * use imperative, present tense (eg: use "add" instead of "added" or "adds") * don't use dot(.) at end * don't capitalize first letter ### emoji * 🛠 build * 👀 chore * 📦 feat * 🐛 bug * 📝 docs * 🗜️ refactor * 🚀 perf * 🎨 style * 🧪 test * 🔨 fix * ⚙️ Config ### example 🛠 build(app gradle): add new itextpdf library
 
 ---
 
