@@ -24,11 +24,11 @@ I build **high-performance, production-ready systems** that solve real business 
 
 ## 🌐 Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/abircse)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/abircoxsbazar/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30">](https://twitter.com/Ns_abir)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="30">](https://stackoverflow.com/users/nayeem-shiddiki-abir)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="30">](https://coxtunes.com)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/abircse)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/abircoxsbazar/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30">](https://twitter.com/Ns_abir)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="30">](https://stackoverflow.com/users/nayeem-shiddiki-abir)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="30">](https://coxtunes.com)
 
 ---
 
