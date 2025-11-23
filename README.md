@@ -1,12 +1,12 @@
 # 💫  Nayeem Shiddiki Abir
 
-### Principal Software Engineer | Senior Software Engineer | Mobile Application Engineer | Technical Lead | Project Management
+### Principal Software Engineer | Senior Software Engineer | Mobile Engineer | Technical Lead/Project Management
 
-🔹 **Principal Software Engineer at Global Dynamic Solutions LLC (USA)** – Full-time Remote  
-🔹 7.5+ years of experience in software engineering and mobile application development  
-🔹 Expertise in **native and cross-platform mobile apps**, **AI & ML integration**, and **scalable software architecture**  
+🔹 Principal Software Engineer at Global Dynamic Solutions LLC (USA) – Full-time Remote
+🔹 7.5+ years of experience building enterprise-grade software and mobile applications
+🔹 Specialized in native & cross-platform app development, AI/ML-driven solutions, and scalable, cloud-ready architectures
 
-I am passionate about building **robust, high-quality applications** that solve real-world problems and contribute to the developer community. I enjoy combining technical expertise with **innovative AI/ML solutions** to deliver practical and efficient software.
+I focus on designing and delivering high-performance, production-ready systems that solve real business challenges. My work blends deep engineering expertise with modern AI/ML capabilities to create intelligent, reliable, and efficient software products. I’m committed to writing clean, maintainable code, driving technical decisions, and continuously contributing to the engineering community.
 
 <a href="https://wakatime.com/@abircse">
   <img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="Total coding time" />
