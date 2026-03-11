@@ -2,7 +2,7 @@
 
 ### Passionate Software Engineer | Mobile, AI/ML, Backend
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@abircse)
+{<img src="https://wakatime.com/badge/user/84544c78-ad62-4fe7-ad58-fbbac5100975.svg" alt="wakatime" />}[https://wakatime.com/@84544c78-ad62-4fe7-ad58-fbbac5100975]
 
 🔹 **Principal Software Engineer** at Global Dynamic Solutions LLC (USA) — Full-time Remote  
 🔹 7.5+ years of experience in software engineering and mobile development  
